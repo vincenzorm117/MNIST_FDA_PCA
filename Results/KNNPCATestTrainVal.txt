@@ -1,0 +1,29 @@
+Reading Input...
+Done reading input
+Finding K-Nearest Neighbors...
+==============================
+Finding 1 nearest neighbors: VALIDATION: 2.84Error. With min K: 1 at: 284
+Finding 2 nearest neighbors: VALIDATION: 3.4Error. With min K: 1 at: 284
+Finding 3 nearest neighbors: VALIDATION: 2.71Error. With min K: 3 at: 271
+Finding 4 nearest neighbors: VALIDATION: 2.72Error. With min K: 3 at: 271
+Finding 5 nearest neighbors: VALIDATION: 2.61Error. With min K: 5 at: 261
+Finding 6 nearest neighbors: VALIDATION: 2.81Error. With min K: 5 at: 261
+Finding 7 nearest neighbors: VALIDATION: 2.77Error. With min K: 5 at: 261
+Finding 8 nearest neighbors: VALIDATION: 2.84Error. With min K: 5 at: 261
+Finding 9 nearest neighbors: VALIDATION: 3Error. With min K: 5 at: 261
+Finding 10 nearest neighbors: VALIDATION: 3.06Error. With min K: 5 at: 261
+Finding 11 nearest neighbors: VALIDATION: 3.04Error. With min K: 5 at: 261
+Finding 12 nearest neighbors: VALIDATION: 3.08Error. With min K: 5 at: 261
+Finding 13 nearest neighbors: VALIDATION: 3.16Error. With min K: 5 at: 261
+Finding 14 nearest neighbors: VALIDATION: 3.15Error. With min K: 5 at: 261
+Finding 15 nearest neighbors: VALIDATION: 3.19Error. With min K: 5 at: 261
+Finding 16 nearest neighbors: VALIDATION: 3.28Error. With min K: 5 at: 261
+Finding 17 nearest neighbors: VALIDATION: 3.42Error. With min K: 5 at: 261
+Finding 18 nearest neighbors: VALIDATION: 3.4Error. With min K: 5 at: 261
+Finding 19 nearest neighbors: VALIDATION: 3.43Error. With min K: 5 at: 261
+Finding 20 nearest neighbors: VALIDATION: 3.47Error. With min K: 5 at: 261
+TEST: 7.86
+==============================
+1670.76
+
+Program ended with exit code: 0

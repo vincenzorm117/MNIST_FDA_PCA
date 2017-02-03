@@ -1,0 +1,75 @@
+Reading Input...
+Done reading input
+Starting K-Fold Cross Validations
+=================================
+
+Running range 0
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.825000 %
+Finding 2 Nearest Neighbor
+--  Error = 3.316667 %
+Finding 3 Nearest Neighbor
+--  Error = 2.650000 %
+Finding 4 Nearest Neighbor
+--  Error = 2.841667 %
+Finding 5 Nearest Neighbor
+--  Error = 2.766667 %
+====================================
+Range: 0 | Min K = 3 with 2.6500
+Running range 1
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.641667 %
+Finding 2 Nearest Neighbor
+--  Error = 3.366667 %
+Finding 3 Nearest Neighbor
+--  Error = 2.633333 %
+Finding 4 Nearest Neighbor
+--  Error = 2.966667 %
+Finding 5 Nearest Neighbor
+--  Error = 2.816667 %
+====================================
+Range: 1 | Min K = 3 with 2.6333
+Running range 2
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.975000 %
+Finding 2 Nearest Neighbor
+--  Error = 3.525000 %
+Finding 3 Nearest Neighbor
+--  Error = 2.908333 %
+Finding 4 Nearest Neighbor
+--  Error = 3.050000 %
+Finding 5 Nearest Neighbor
+--  Error = 3.033333 %
+====================================
+Range: 2 | Min K = 3 with 2.9083
+Running range 3
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.966667 %
+Finding 2 Nearest Neighbor
+--  Error = 3.491667 %
+Finding 3 Nearest Neighbor
+--  Error = 2.775000 %
+Finding 4 Nearest Neighbor
+--  Error = 2.891667 %
+Finding 5 Nearest Neighbor
+--  Error = 2.983333 %
+====================================
+Range: 3 | Min K = 3 with 2.7750
+Running range 4
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.908333 %
+Finding 2 Nearest Neighbor
+--  Error = 3.433333 %
+Finding 3 Nearest Neighbor
+--  Error = 2.766667 %
+Finding 4 Nearest Neighbor
+--  Error = 2.825000 %
+Finding 5 Nearest Neighbor
+--  Error = 2.875000 %
+====================================
+Range: 4 | Min K = 3 with 2.7667

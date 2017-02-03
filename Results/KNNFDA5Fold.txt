@@ -1,0 +1,74 @@
+Reading Input...
+Done reading input
+Starting K-Fold Cross Validations
+=================================
+Running range 0
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 23.816667 %
+Finding 2 Nearest Neighbor
+--  Error = 24.925000 %
+Finding 3 Nearest Neighbor
+--  Error = 21.400000 %
+Finding 4 Nearest Neighbor
+--  Error = 20.858333 %
+Finding 5 Nearest Neighbor
+--  Error = 20.358333 %
+====================================
+Range: 0 | Min K = 5 with 20.3583
+Running range 1
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 24.600000 %
+Finding 2 Nearest Neighbor
+--  Error = 25.700000 %
+Finding 3 Nearest Neighbor
+--  Error = 22.250000 %
+Finding 4 Nearest Neighbor
+--  Error = 21.408333 %
+Finding 5 Nearest Neighbor
+--  Error = 20.566667 %
+====================================
+Range: 1 | Min K = 5 with 20.5667
+Running range 2
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 25.508333 %
+Finding 2 Nearest Neighbor
+--  Error = 26.091667 %
+Finding 3 Nearest Neighbor
+--  Error = 22.966667 %
+Finding 4 Nearest Neighbor
+--  Error = 22.091667 %
+Finding 5 Nearest Neighbor
+--  Error = 21.708333 %
+====================================
+Range: 2 | Min K = 5 with 21.7083
+Running range 3
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 24.600000 %
+Finding 2 Nearest Neighbor
+--  Error = 25.941667 %
+Finding 3 Nearest Neighbor
+--  Error = 22.083333 %
+Finding 4 Nearest Neighbor
+--  Error = 21.733333 %
+Finding 5 Nearest Neighbor
+--  Error = 20.766667 %
+====================================
+Range: 3 | Min K = 5 with 20.7667
+Running range 4
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 23.608333 %
+Finding 2 Nearest Neighbor
+--  Error = 24.641667 %
+Finding 3 Nearest Neighbor
+--  Error = 21.500000 %
+Finding 4 Nearest Neighbor
+--  Error = 20.508333 %
+Finding 5 Nearest Neighbor
+--  Error = 19.958333 %
+====================================
+Range: 4 | Min K = 5 with 19.9583

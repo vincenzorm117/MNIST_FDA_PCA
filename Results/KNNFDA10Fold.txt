@@ -1,0 +1,149 @@
+Reading Input...
+Done reading input
+Starting K-Fold Cross Validations
+=================================
+Running range 0
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 22.933333 %
+Finding 2 Nearest Neighbor
+--  Error = 24.283333 %
+Finding 3 Nearest Neighbor
+--  Error = 20.500000 %
+Finding 4 Nearest Neighbor
+--  Error = 19.583333 %
+Finding 5 Nearest Neighbor
+--  Error = 18.966667 %
+====================================
+Range: 0 | Min K = 5 with 18.9667
+Running range 1
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 23.950000 %
+Finding 2 Nearest Neighbor
+--  Error = 24.683333 %
+Finding 3 Nearest Neighbor
+--  Error = 21.416667 %
+Finding 4 Nearest Neighbor
+--  Error = 21.366667 %
+30 percent done
+Finding 5 Nearest Neighbor
+--  Error = 20.683333 %
+30 percent done
+====================================
+Range: 1 | Min K = 5 with 20.6833
+Running range 2
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 25.266667 %
+Finding 2 Nearest Neighbor
+--  Error = 25.766667 %
+Finding 3 Nearest Neighbor
+--  Error = 22.966667 %
+Finding 4 Nearest Neighbor
+--  Error = 22.150000 %
+Finding 5 Nearest Neighbor
+--  Error = 21.266667 %
+====================================
+Range: 2 | Min K = 5 with 21.2667
+Running range 3
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 23.366667 %
+Finding 2 Nearest Neighbor
+--  Error = 24.433333 %
+Finding 3 Nearest Neighbor
+--  Error = 20.966667 %
+Finding 4 Nearest Neighbor
+--  Error = 20.150000 %
+Finding 5 Nearest Neighbor
+--  Error = 19.350000 %
+====================================
+Range: 3 | Min K = 5 with 19.3500
+Running range 4
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 25.200000 %
+Finding 2 Nearest Neighbor
+--  Error = 25.633333 %
+Finding 3 Nearest Neighbor
+--  Error = 22.466667 %
+Finding 4 Nearest Neighbor
+--  Error = 21.416667 %
+Finding 5 Nearest Neighbor
+--  Error = 21.000000 %
+====================================
+Range: 4 | Min K = 5 with 21.0000
+Running range 5
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 24.983333 %
+Finding 2 Nearest Neighbor
+--  Error = 25.800000 %
+Finding 3 Nearest Neighbor
+--  Error = 22.966667 %
+Finding 4 Nearest Neighbor
+--  Error = 22.033333 %
+Finding 5 Nearest Neighbor
+--  Error = 21.466667 %
+====================================
+Range: 5 | Min K = 5 with 21.4667
+Running range 6
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 24.216667 %
+Finding 2 Nearest Neighbor
+--  Error = 25.650000 %
+Finding 3 Nearest Neighbor
+--  Error = 21.983333 %
+Finding 4 Nearest Neighbor
+--  Error = 21.700000 %
+Finding 5 Nearest Neighbor
+--  Error = 20.500000 %
+====================================
+Range: 6 | Min K = 5 with 20.5000
+Running range 7
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 24.583333 %
+Finding 2 Nearest Neighbor
+--  Error = 25.783333 %
+Finding 3 Nearest Neighbor
+--  Error = 22.016667 %
+Finding 4 Nearest Neighbor
+--  Error = 21.450000 %
+Finding 5 Nearest Neighbor
+--  Error = 20.700000 %
+====================================
+Range: 7 | Min K = 5 with 20.7000
+Running range 8
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 24.366667 %
+Finding 2 Nearest Neighbor
+--  Error = 25.416667 %
+Finding 3 Nearest Neighbor
+--  Error = 22.150000 %
+Finding 4 Nearest Neighbor
+--  Error = 21.283333 %
+Finding 5 Nearest Neighbor
+--  Error = 20.566667 %
+====================================
+Range: 8 | Min K = 5 with 20.5667
+Running range 9
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 22.700000 %
+Finding 2 Nearest Neighbor
+--  Error = 23.716667 %
+Finding 3 Nearest Neighbor
+--  Error = 20.083333 %
+Finding 4 Nearest Neighbor
+--  Error = 19.250000 %
+Finding 5 Nearest Neighbor
+--  Error = 18.566667 %
+====================================
+Range: 9 | Min K = 5 with 18.5667
+
+Program ended with exit code: 0
+

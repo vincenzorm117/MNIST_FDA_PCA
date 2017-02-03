@@ -1,0 +1,145 @@
+Reading Input...
+Done reading input
+Starting K-Fold Cross Validations
+=================================
+
+Running range 0
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.266667 %
+Finding 2 Nearest Neighbor
+--  Error = 3.000000 %
+Finding 3 Nearest Neighbor
+--  Error = 2.300000 %
+Finding 4 Nearest Neighbor
+--  Error = 2.483333 %
+Finding 5 Nearest Neighbor
+--  Error = 2.433333 %
+====================================
+Range: 0 | Min K = 1 with 2.2667
+Running range 1
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.933333 %
+Finding 2 Nearest Neighbor
+--  Error = 3.516667 %
+Finding 3 Nearest Neighbor
+--  Error = 2.933333 %
+Finding 4 Nearest Neighbor
+--  Error = 3.050000 %
+Finding 5 Nearest Neighbor
+--  Error = 3.016667 %
+====================================
+Range: 1 | Min K = 1 with 2.9333
+Running range 2
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.783333 %
+Finding 2 Nearest Neighbor
+--  Error = 3.483333 %
+Finding 3 Nearest Neighbor
+--  Error = 2.650000 %
+Finding 4 Nearest Neighbor
+--  Error = 3.100000 %
+Finding 5 Nearest Neighbor
+--  Error = 3.033333 %
+====================================
+Range: 2 | Min K = 3 with 2.6500
+Running range 3
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.316667 %
+Finding 2 Nearest Neighbor
+--  Error = 2.850000 %
+Finding 3 Nearest Neighbor
+--  Error = 2.216667 %
+Finding 4 Nearest Neighbor
+--  Error = 2.566667 %
+Finding 5 Nearest Neighbor
+--  Error = 2.616667 %
+====================================
+Range: 3 | Min K = 3 with 2.2167
+Running range 4
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 3.083333 %
+Finding 2 Nearest Neighbor
+--  Error = 3.466667 %
+Finding 3 Nearest Neighbor
+--  Error = 2.866667 %
+Finding 4 Nearest Neighbor
+--  Error = 3.033333 %
+Finding 5 Nearest Neighbor
+--  Error = 2.866667 %
+====================================
+Range: 4 | Min K = 3 with 2.8667
+Running range 5
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.666667 %
+Finding 2 Nearest Neighbor
+--  Error = 3.200000 %
+Finding 3 Nearest Neighbor
+--  Error = 2.600000 %
+Finding 4 Nearest Neighbor
+--  Error = 2.750000 %
+Finding 5 Nearest Neighbor
+--  Error = 2.666667 %
+====================================
+Range: 5 | Min K = 3 with 2.6000
+Running range 6
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.716667 %
+Finding 2 Nearest Neighbor
+--  Error = 3.133333 %
+Finding 3 Nearest Neighbor
+--  Error = 2.666667 %
+Finding 4 Nearest Neighbor
+--  Error = 2.833333 %
+Finding 5 Nearest Neighbor
+--  Error = 2.750000 %
+====================================
+Range: 6 | Min K = 3 with 2.6667
+Running range 7
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 3.066667 %
+Finding 2 Nearest Neighbor
+--  Error = 3.600000 %
+Finding 3 Nearest Neighbor
+--  Error = 2.766667 %
+Finding 4 Nearest Neighbor
+--  Error = 2.800000 %
+Finding 5 Nearest Neighbor
+--  Error = 3.000000 %
+====================================
+Range: 7 | Min K = 3 with 2.7667
+Running range 8
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 3.466667 %
+Finding 2 Nearest Neighbor
+--  Error = 4.000000 %
+Finding 3 Nearest Neighbor
+--  Error = 3.200000 %
+Finding 4 Nearest Neighbor
+--  Error = 3.383333 %
+Finding 5 Nearest Neighbor
+--  Error = 3.483333 %
+====================================
+Range: 8 | Min K = 3 with 3.2000
+Running range 9
+===================================
+Finding 1 Nearest Neighbor
+--  Error = 2.133333 %
+Finding 2 Nearest Neighbor
+--  Error = 2.800000 %
+Finding 3 Nearest Neighbor
+--  Error = 2.166667 %
+Finding 4 Nearest Neighbor
+--  Error = 2.216667 %
+Finding 5 Nearest Neighbor
+--  Error = 2.183333 %
+====================================
+Range: 9 | Min K = 1 with 2.1333

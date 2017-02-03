@@ -1,0 +1,27 @@
+Reading Input...
+Done reading input
+Finding K-Nearest Neighbors...
+==============================
+Finding 1 nearest neighbors: VALIDATION: 23.43Error. With min K: 1 at: 2343
+Finding 2 nearest neighbors: VALIDATION: 24.66Error. With min K: 1 at: 2343
+Finding 3 nearest neighbors: VALIDATION: 21.26Error. With min K: 3 at: 2126
+Finding 4 nearest neighbors: VALIDATION: 20.28Error. With min K: 4 at: 2028
+Finding 5 nearest neighbors: VALIDATION: 19.7Error. With min K: 5 at: 1970
+Finding 6 nearest neighbors: VALIDATION: 19.34Error. With min K: 6 at: 1934
+Finding 7 nearest neighbors: VALIDATION: 19.15Error. With min K: 7 at: 1915
+Finding 8 nearest neighbors: VALIDATION: 18.95Error. With min K: 8 at: 1895
+Finding 9 nearest neighbors: VALIDATION: 19.04Error. With min K: 8 at: 1895
+Finding 10 nearest neighbors: VALIDATION: 18.76Error. With min K: 10 at: 1876
+Finding 11 nearest neighbors: VALIDATION: 18.81Error. With min K: 10 at: 1876
+Finding 12 nearest neighbors: VALIDATION: 18.8Error. With min K: 10 at: 1876
+Finding 13 nearest neighbors: VALIDATION: 18.75Error. With min K: 13 at: 1875
+Finding 14 nearest neighbors: VALIDATION: 19.01Error. With min K: 13 at: 1875
+Finding 15 nearest neighbors: VALIDATION: 18.67Error. With min K: 15 at: 1867
+Finding 16 nearest neighbors: VALIDATION: 18.8Error. With min K: 15 at: 1867
+Finding 17 nearest neighbors: VALIDATION: 18.93Error. With min K: 15 at: 1867
+Finding 18 nearest neighbors: VALIDATION: 19.12Error. With min K: 15 at: 1867
+Finding 19 nearest neighbors: VALIDATION: 18.99Error. With min K: 15 at: 1867
+Finding 20 nearest neighbors: VALIDATION: 19.2Error. With min K: 15 at: 1867
+TEST: 40
+==============================
+453.491
