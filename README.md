@@ -5,4 +5,4 @@ A C++ KNN NBC implementation on MNIST data for my class CAP5610 using the FDA an
 Results are located in the results folder and the report under Report.pdf.
 
 ## Source
-Located in Programs under <Algorithm name>/<Algorithm name>.
+Located in Programs under name/name.
